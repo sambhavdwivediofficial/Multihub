@@ -147,5 +147,4 @@ SOFTWARE.
 
 ## Author
 
-**Sambhav Dwivedi**
-[sambhavdwivedi.in](https://sambhavdwivedi.in)
+### **[Sambhav Dwivedi](https://sambhavdwivedi.in)**
